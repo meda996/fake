@@ -1,4 +1,4 @@
-{
+[
  "studenti": [
   {
     "name": "petar dulovic",
@@ -25,4 +25,4 @@
     "completed": false
   }
  ]
-}
+]
