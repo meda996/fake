@@ -1,4 +1,5 @@
-[
+{
+ "studenti": [
   {
     "name": "petar dulovic",
     "id": 1,
@@ -23,4 +24,5 @@
     "tema": "et porro tempora",
     "completed": false
   }
-]
+ ]
+}
