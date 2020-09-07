@@ -1,11 +1,11 @@
-[
- "studenti": [
-  {
-    "name": "petar dulovic",
-    "id": 1,
-    "tema": "delectus aut autem",
+{
+  "student": [
+    {
+    "name": "ivana milic",
+    "id": 4,
+    "tema": "et porro tempora",
     "completed": false
-  },
+    },
   {
     "name": "ivan markovic",
     "id": 2,
@@ -24,5 +24,5 @@
     "tema": "et porro tempora",
     "completed": false
   }
- ]
-]
+  ]
+}
