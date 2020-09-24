@@ -4,25 +4,25 @@
     "name": "ivana milic",
     "id": 1,
     "tema": "et porro tempora",
-    "completed": false
+    "completed": "nije"
     },
   {
     "name": "ivan markovic",
     "id": 2,
     "tema": "quis ut nam facilis et officia qui",
-    "completed": false
+    "completed": "nije"
   },
   {
     "name": "ilija sipka",
     "id": 3,
     "tema": "fugiat veniam minus",
-    "completed": false
+    "completed": "nije"
   },
   {
     "name": "ivana milic",
     "id": 4,
     "tema": "et porro tempora",
-    "completed": false
+    "completed": "nije"
   }
   ]
 }
